@@ -27,7 +27,7 @@ private func getTaxRate(income: Int, config: TaxConfig) throws -> Decimal {
     }
     
     logger.error("No matching bracket for income \(income)")
-    throw TaxCalcuationError.noTaxRateFound
+    throw TaxCalculationError.noTaxRateFound
 }
 
 /** Given a person's annual income, and the tax rates, returns amount of tax owed */

@@ -5,7 +5,7 @@
 //  Created by Eric Popelka on 10/15/25.
 //
 
-public enum TaxCalcuationError: Error, CustomStringConvertible {
+public enum TaxCalculationError: Error, CustomStringConvertible {
     case noTaxRateFound
     
     public var description: String {

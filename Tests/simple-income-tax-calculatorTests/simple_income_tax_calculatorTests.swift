@@ -53,7 +53,7 @@ final class simple_income_tax_calculatorTests: XCTestCase {
         
         // When/Then: computing tax should throw an error
         XCTAssertThrowsError(try computeTaxOwed(income: income, config: taxConfig)) { error in
-            XCTAssertTrue(error is TaxCalcuationError, "Should throw TaxCalcuationError for negative income")
+            XCTAssertTrue(error is TaxCalculationError, "Should throw TaxCalculationError for negative income")
         }
     }
     
