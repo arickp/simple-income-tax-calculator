@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Swift Run (No Debug)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/.build/debug/simple-income-tax-calculator",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "noDebug": true
+    }
+  ]
+}
