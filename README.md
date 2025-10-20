@@ -44,7 +44,7 @@ cd simple-income-tax-calculator
 swift build
 ```
 
-Trying to build and run on Windows? [Watch the video: HOWTO-Run-on-Windows.mp4](./HOWTO-Run-on-Windows.mp4)
+Trying to build and run on Windows? [Watch the video: HOWTO-Run-on-Windows](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FA42825B62449F2AC%21s694335ae6fe84413bd9eef93dc1e3e5e%3Fithint%3Dvideo%26migratedtospo%3Dtrue&cid=A42825B62449F2AC&id=A42825B62449F2AC%21s694335ae6fe84413bd9eef93dc1e3e5e&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy9hNDI4MjViNjI0NDlmMmFjL0VhNDFRMm5vYnhORXZaN3ZrOXdlUGw0QktPc1BEUlY2NGlWXzBwcjF2eGpXRFE&v=photos)
 
 ## Usage
 
